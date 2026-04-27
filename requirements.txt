@@ -14,5 +14,5 @@ groq==0.31.0
 
 pydantic==2.11.7
 
-streamlit
-requests
+streamlit==1.45.1
+requests==2.32.3
