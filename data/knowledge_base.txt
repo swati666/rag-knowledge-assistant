@@ -1,0 +1,9 @@
+Machine learning is a field of artificial intelligence that focuses on building systems that learn from data.
+
+Supervised learning is a type of machine learning where models are trained using labeled data.
+
+Unsupervised learning identifies patterns in data without labeled outcomes.
+
+Retrieval Augmented Generation (RAG) combines information retrieval with large language models to produce grounded responses.
+
+Vector databases store embeddings and allow similarity search across documents.

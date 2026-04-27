@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+ml/
+
+# IDE
+.idea/
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Model / cache
+.cache/
+hf_cache/
+nltk_data/
+
+# Optional generated artifacts
+faiss_index.bin
+chunks.pkl
+
+# Docker
+*.tar
