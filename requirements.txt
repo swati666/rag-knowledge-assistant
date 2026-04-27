@@ -13,3 +13,6 @@ nltk==3.9.1
 groq==0.31.0
 
 pydantic==2.11.7
+
+streamlit
+requests
